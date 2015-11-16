@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Weather</string>
+
+
+    <string name="action_settings">Settings</string>
+    <string name="action_update">Update</string>
+    <string name="init">&#8230;</string>
+    <string name="temperature">Temperature</string>
+    <string name="tempUnitsCelsius">°C</string>
+    <string name="tempUnitsFarhenheit">°F</string>
+    <string name="unitsPercent">%</string>
+    <string name="pressureUnitsHpa">hPa</string>
+    <string name="windSpeedUnitsMps">m/s</string>
+    <string name="open_weather_maps_app_id">90f638d4c42d4acab1fedc851f21ec85</string>
+
+</resources>
